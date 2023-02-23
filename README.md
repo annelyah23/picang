@@ -2,7 +2,7 @@
 <br>
 <br>
   <h2 align="center">
-🚀 Update VPS Kamu Dulu Sebelum Instal Script 🚀<br>
+
 
   ```html
  apt-get update && apt-get upgrade -y && reboot
